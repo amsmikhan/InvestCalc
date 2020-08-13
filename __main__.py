@@ -1,7 +1,6 @@
 # ©Moscow, 2020, Mikhail Sergeev
-# The project is open source, feel free to use it
-# the author is not responsible for possible financial losses resulting from investments based on data calculated by the
-# program
+# The project is open source, feel free to use it. The developer is not responsible for
+# possible financial losses resulting from investments based on data calculated by the program
 
 import Company
 import os
